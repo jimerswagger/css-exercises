@@ -1,5 +1,9 @@
 div {
     background-color: red;
+    color: white;
+    font-size: 32px;
+    text-align: center;
+    font-weight: bold;
 }
 
 /* div is the only type selector that will change using the CSS external method

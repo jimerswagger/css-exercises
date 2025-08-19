@@ -1,4 +1,5 @@
-.black-button, .yellow-button { /* Grouping two classes together for common properties */
+.black-button, 
+.yellow-button { /* Grouping two classes together for common properties */
     font-family: Helvetica, "Times New Roman", sans-serif;
     font-size: 28px;
 }

@@ -1,0 +1,6 @@
+.container .text { /*This is saying that all elements with class 'text' that are a child of OR have an ancestor of type 'div' class, have these properties */
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
